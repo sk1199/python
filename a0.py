@@ -1,3 +1,4 @@
+#simple interest calulator
 p = 1000
 n = 2
 r =10
